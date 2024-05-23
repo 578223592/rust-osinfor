@@ -1,7 +1,7 @@
 # rust-osinfor
 
 ## 简介
-Rust开发的系统工具，使用RustRover作为Ide。
+Rust开发的系统工具，~~使用RustRover作为Ide~~ ，使用vscode + rust插件开发。
 
 ## 功能列表
 - [x] 获取系统架构;
